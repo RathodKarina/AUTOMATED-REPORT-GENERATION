@@ -14,3 +14,4 @@ pandas: To read and analyze tabular data (data.csv). fpdf: To generate the PDF f
 
 OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/efb2760a-c624-495c-9b50-2d9723a7464b)
